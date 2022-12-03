@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes_githubpages=self.webpackChunknotes_githubpages||[]).push([[254],{354:function(e,s,t){e.exports=t.p+"static/media/README.05245f8d9702d9b41e7c.md"}}]);

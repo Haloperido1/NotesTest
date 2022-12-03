@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Haloperido1/NotesTest/static/js/main.dfe14b66.js",
-    "static/js/254.7b3d4d8b.chunk.js": "/Haloperido1/NotesTest/static/js/254.7b3d4d8b.chunk.js",
-    "static/js/787.87b6e756.chunk.js": "/Haloperido1/NotesTest/static/js/787.87b6e756.chunk.js",
-    "static/media/README.md": "/Haloperido1/NotesTest/static/media/README.05245f8d9702d9b41e7c.md",
-    "index.html": "/Haloperido1/NotesTest/index.html",
-    "main.dfe14b66.js.map": "/Haloperido1/NotesTest/static/js/main.dfe14b66.js.map",
-    "787.87b6e756.chunk.js.map": "/Haloperido1/NotesTest/static/js/787.87b6e756.chunk.js.map"
+    "main.js": "/NotesTest/static/js/main.6d9177ab.js",
+    "static/js/254.7b3d4d8b.chunk.js": "/NotesTest/static/js/254.7b3d4d8b.chunk.js",
+    "static/js/787.87b6e756.chunk.js": "/NotesTest/static/js/787.87b6e756.chunk.js",
+    "static/media/README.md": "/NotesTest/static/media/README.05245f8d9702d9b41e7c.md",
+    "index.html": "/NotesTest/index.html",
+    "main.6d9177ab.js.map": "/NotesTest/static/js/main.6d9177ab.js.map",
+    "787.87b6e756.chunk.js.map": "/NotesTest/static/js/787.87b6e756.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.dfe14b66.js"
+    "static/js/main.6d9177ab.js"
   ]
 }
